@@ -29,7 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/py_automation/py26_api_test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -244,7 +244,7 @@
       <workItem from="1584085822477" duration="4667000" />
       <workItem from="1584417777673" duration="3997000" />
       <workItem from="1584502923818" duration="1230000" />
-      <workItem from="1585812843631" duration="223000" />
+      <workItem from="1585812843631" duration="1520000" />
     </task>
     <servers />
   </component>
@@ -283,11 +283,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="689" y="218" key="FileChooserDialogImpl" timestamp="1585813061684">
+    <state x="689" y="218" key="FileChooserDialogImpl" timestamp="1585823487519">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="689" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585813061684" />
+    <state x="689" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585823487519" />
     <state width="1864" height="202" key="GridCell.Tab.0.bottom" timestamp="1584099181801">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
