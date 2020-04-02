@@ -1,6 +1,6 @@
 import pymysql
 from common.handleconfig import conf
-
+# import re
 
 class DB:
     def __init__(self):
@@ -39,3 +39,10 @@ class DB:
         """关闭游标，断开连接"""
         self.cur.close()
         self.conn.close()
+
+
+# db = DB()
+# sql = "select * from `yd_msg`.`t_sms_message_log` where cellphone = '15100000005' order by create_time desc"
+# res = db.find_one(sql=sql)["param_map"]
+# num = re.findall("\d+", res)[0]
+# print(num)
