@@ -12,7 +12,6 @@ file_url = os.path.join(DATADIR, "apicases.xlsx")
 class TestRegister(unittest.TestCase):
     """ 注册相关类 """
 
-
     @data()
     def test_register(self):
 
